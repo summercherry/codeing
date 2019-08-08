@@ -19,4 +19,5 @@ int main(){
 	    }
 	
 	cout << a[l];
+	return 0 ;
 }
